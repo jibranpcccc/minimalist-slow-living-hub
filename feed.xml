@@ -4,10 +4,17 @@
     <title>Minimalism &amp; Zero-Waste Lifestyle Hub</title>
     <link>https://minimalist-slow-living-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:48:11 GMT</lastBuildDate>
     <atom:link href="https://minimalist-slow-living-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
+      <link>https://discord.gg/linux</link>
+      <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalist-slow-living-hub-discord-20261023-1-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 06:48:11 GMT</pubDate>
+      <description>Newly verified community added to Minimalism &amp; Zero-Waste Lifestyle Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalist-slow-living-hub-discord-20261023-1-2026-11-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalist-slow-living-hub-reddit-20261017-1-2026-10-17</guid>
       <pubDate>Sat, 17 Oct 2026 06:02:11 GMT</pubDate>
       <description>Newly verified community added to Minimalism &amp; Zero-Waste Lifestyle Hub: Community dedicated to hosting your own software, Docker compose stacks, cloud alternatives, and privacy-preserving infrastructure.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
-      <link>https://www.reddit.com/r/hardware/</link>
-      <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalist-slow-living-hub-reddit-20261016-1-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 06:02:15 GMT</pubDate>
-      <description>Newly verified community added to Minimalism &amp; Zero-Waste Lifestyle Hub: Deep-dive technical discussions on semiconductor architectures, CPU/GPU node lithography, RAM timings, and PC components.</description>
     </item>
   </channel>
 </rss>

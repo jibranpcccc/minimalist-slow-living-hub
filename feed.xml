@@ -4,10 +4,17 @@
     <title>Minimalism &amp; Zero-Waste Lifestyle Hub</title>
     <link>https://minimalist-slow-living-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:02:20 GMT</lastBuildDate>
     <atom:link href="https://minimalist-slow-living-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Python Developers Telegram Channel (Telegram)</title>
+      <link>https://t.me/python_scripts</link>
+      <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalism-zero-waste-lifestyle-hub-telegram-9-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:02:20 GMT</pubDate>
+      <description>Newly verified community added to Minimalism &amp; Zero-Waste Lifestyle Hub: Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Python Official Discord (Discord)</title>
       <link>https://discord.gg/python</link>
       <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalism-zero-waste-lifestyle-hub-discord-8-2026-11-25</guid>
@@ -173,13 +180,6 @@
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalist-slow-living-hub-discord-20261023-1-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 06:02:11 GMT</pubDate>
-      <description>Newly verified community added to Minimalism &amp; Zero-Waste Lifestyle Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
-      <link>https://discord.gg/linux</link>
-      <guid isPermaLink="false">https://minimalist-slow-living-hub.netlify.app/#minimalist-slow-living-hub-discord-20261023-1-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 06:46:21 GMT</pubDate>
       <description>Newly verified community added to Minimalism &amp; Zero-Waste Lifestyle Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
     </item>
   </channel>
